@@ -1,6 +1,10 @@
 {
   "name": "instaqart",
   "version": "1.0.0",
+  "engines": {
+    "node": "16.13.0",
+    "npm": "6.14.8"
+  },
   "description": "MERN e-Commerce app",
   "main": "server.js",
   "type": "module",
