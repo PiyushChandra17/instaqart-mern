@@ -4,4 +4,4 @@ frontend: React,Redux
 backend: Node.js,Express.js
 database: MongoDB
 
-#Live:https://instaqart-live.herokuapp.com/
+#Live:https://instaqartxlive-9ab3.onrender.com/
